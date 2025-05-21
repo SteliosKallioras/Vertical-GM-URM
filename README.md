@@ -42,6 +42,24 @@ The dataset and models provided here allow full reproduction of the numerical re
 
 ---
 
+## Citation
+
+If you use this dataset or the associated models, please cite the following paper:
+
+Kallioras S., Graziotti F., Magenes G. Vertical accelerations in seismic analysis: A numerical investigation of their effects on URM structures. *Earthquake Spectra* 2025. DOI: *pending*.
+
+Please do **not** cite the dataset directly. The dataset was created to support the findings presented in the above publication.
+
+---
+
+## License
+
+This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to use, share, and adapt the material for any purpose, including commercial, as long as you cite the paper above and credit the authors: Stylianos Kallioras, Francesco Graziotti, Guido Magenes.
+
+---
+
 ## Getting Started
 
 You can clone the repository or download it as a ZIP archive.  
