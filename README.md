@@ -4,7 +4,7 @@ This repository contains the data and numerical models used in the study:
 
 **Kallioras S., Graziotti F., Magenes G.**  
 *Vertical accelerations in seismic analysis: A numerical investigation of their effects on URM structures.*  
-*Earthquake Spectra*, 2025. DOI: pending.
+*Earthquake Spectra*, 2025. DOI: pending (to be added upon journal publication).
 
 ---
 
@@ -46,7 +46,7 @@ The dataset and models provided here allow full reproduction of the numerical re
 
 If you use this dataset or the associated models, please cite the following paper:
 
-Kallioras S., Graziotti F., Magenes G. Vertical accelerations in seismic analysis: A numerical investigation of their effects on URM structures. *Earthquake Spectra* 2025. DOI: *pending*.
+Kallioras S., Graziotti F., Magenes G. Vertical accelerations in seismic analysis: A numerical investigation of their effects on URM structures. *Earthquake Spectra* 2025. DOI: *pending* (to be added upon journal publication).
 
 Please do **not** cite the dataset directly. The dataset was created to support the findings presented in the above publication.
 
